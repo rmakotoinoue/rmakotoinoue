@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Rafael Makoto Inoue 👋
 
-<!--
-**rmakotoinoue/rmakotoinoue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Lead | Senior .NET Engineer | Software Architecture
 
-Here are some ideas to get you started:
+Software professional with 19+ years of experience in software development, backend engineering, architecture, and technical leadership. Focused on building scalable solutions, modernizing legacy systems, and applying engineering best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Frameworks
+
+### Languages
+
+- C#
+- JavaScript
+- TypeScript
+- Python
+- SQL
+
+### Frameworks & Platforms
+
+- .NET / .NET Core
+- Entity Framework Core
+- Node.js
+- Angular
+- React
+- Clean Architecture
+- REST APIs
+- Microservices
+
+## 🏗️ Architecture & Engineering
+
+- Clean Architecture and SOLID principles
+- REST APIs and Microservices
+- Distributed Systems and System Integration
+- Design Patterns and Domain-Driven Design fundamentals
+- Code Reviews, Automated Testing, and Refactoring
+- Legacy System Modernization
+- Generative AI for Software Engineering
+
+## ☁️ Cloud & DevOps
+
+- Microsoft Azure and Amazon Web Services (AWS)
+- Docker and Kubernetes
+- Terraform and Infrastructure as Code
+- CI/CD and Observability
+- Messaging and Asynchronous Processing
+
+## 🎯 Professional Focus
+
+- Technical leadership and software architecture decisions
+- Backend development with C# and .NET
+- Modernization of legacy applications
+- Engineering standards, code quality, and team mentoring
+- Applying generative AI to software development workflows
+
+## 📌 Featured Projects
+
+Explore my repositories for practical examples of software architecture, backend development, distributed systems, automated testing, and engineering best practices.
+
+---
+
+*Always learning, sharing knowledge, and building better software.*
